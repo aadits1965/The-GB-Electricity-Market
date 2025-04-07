@@ -1,1 +1,2 @@
-# The-GB-Electricity-Market
+# KritiQuantPS
+Great Britain Intraday Electricity Market Trading Strategy
